@@ -1,16 +1,13 @@
-from crewai import Agent,Task,Crew
+from crewai import Agent,Task,Crew,LLM
 from dotenv import load_dotenv
 import os
 load_dotenv()
 from Task import duplicate_finder_tool
 
-from langchain_google_genai import ChatGoogleGenerativeAI
-llm=ChatGoogleGenerativeAI(model="google/gemini-pro",
-                           verbose=True,
-                           temperature=0.5,
-                           google_api_key=os.getenv("GOOGLE_API_KEY")
-                           )
-
+llm = LLM(
+    model="gemini/gemini-1.5-flash",  # ✅ Correct format for Google AI Studio
+    api_key=os.getenv("GOOGLE_API_KEY")
+)
 # Define the Agent
 duplicate_analyzer = Agent(
     role='Duplicate Analyzer',
@@ -46,7 +43,7 @@ crew = Crew(
 inputs = {
     'input_file': 'C:/Users/singh/Documents/crewai_project_env/A-CrewAI-Prediction-Market-Aggregator/CrewAI/combined_data.json',  # Replace with your JSON file path
     'duplicate_key': 'id',  # Replace with the key to check for duplicates (e.g., 'email', 'name')
-    'output_file': 'C:/Users/singh/Documents/crewai_project_env/A-CrewAI-Prediction-Market-Aggregator/CrewAI/updated_dataset.json'  # Output file path
+    'output_file': 'C:/Users/singh/Documents/crewai_project_env/A-CrewAI-Prediction-Market-Aggregator/CrewAI/Agent_2_updated_dataset_find_duplcates.json'  # Output file path
 }
 
 result = crew.kickoff(inputs=inputs)
