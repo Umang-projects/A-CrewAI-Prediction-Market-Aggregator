@@ -1,0 +1,607 @@
+[
+  {
+    "site": "Polymarket",
+    "error": "HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /markets?limit=10 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000027412166C00>, 'Connection to gamma-api.polymarket.com timed out. (connect timeout=15)'))",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will I get up early?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Trump calls California \"Newscumland\" in public before October?",
+    "price": 0.5,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "DOJ sues California over redistricting plan before October?",
+    "price": 0.5901639344262296,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "What's my birthday?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Trump effectively control policy of a future, 2029-2033 GoP president?",
+    "price": 0.49881094103907625,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Trump significantly influence policy of a future, 2029-2033 GoP president?",
+    "price": 0.5243757431629014,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will I lose any of my packages with USPS?",
+    "price": 0.3542958370239149,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Improve my manifold.",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "How long will Taylor Swift and Travis Kelce's marriage last?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "How big is Taylor Swift's engagement ring? (Over/Under)",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "When will Taylor Swift and Kelce get married?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Who will attend Taylor Swift and Travis Kelce wedding?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Taylor Swift divorce Travis Kelce within 5 years?",
+    "price": 0.4430617017418259,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "What products will be announced at the September Apple event?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Is La Griffe du Lion funny?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Is Anatoly Karlin funny?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will La Griffe Du Lion be doxx'd by EOY2030?",
+    "price": 0.47562425683709864,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Is Emil O. W. Kierkegaard funny?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "What will be the Cannonball Run record for a true autonomous vehicle at the end of 2030?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "AI beats Minecraft (RSG) in under 10 minutes before 2028?",
+    "price": 0.23224568138195778,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will a true autonomous Cannonball Run be completed in under 48 hours by the end of 2028?",
+    "price": 0.6249991040307272,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "AI beats Minecraft (RSG) in under 10 minutes before 2029?",
+    "price": 0.20064739035036774,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Putin visit the US for a 2026 FIFA World Cup match or event?",
+    "price": 0.2720384204913023,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "@bayesianbot live today?",
+    "price": 0.6330667861675006,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Jose Luis Ricon ever visit https://en.wikipedia.org/wiki/San_Jose,_Tinian ?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will the Labour party compete one full term in office before the next general election?",
+    "price": 0.5938097955621203,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Jose Luis Ricon have an altar/temple we can make sacrifices to?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will trump die on or before February 7, 2026",
+    "price": 0.22549955410279277,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will \"Emotions Make Sense\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "price": 0.15791252887157628,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "French confidence vote fails?",
+    "price": 0.8753505765035837,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Krk is very big",
+    "price": 0.3279260635633965,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Connor Kent make an appearance in the DCU ?",
+    "price": 0.5,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Il Presidente offre un altro kebab nel 2025?",
+    "price": 0.4524886877828055,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Lucas Flores Floris: Over/Under 15.5 tipe coddate nei primi 12 mesi a Torino",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "2025-26 Scimprus League champion",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Trump restores local DC police control before October?",
+    "price": 0.6582607385835865,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will \"Before LLM Psychosis, There Was Yes-Man Psychosis\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "price": 0.13318001589772197,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will a 9 Raptor Starship second stage fly before 2028?",
+    "price": 0.4098360655737705,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "In what year will Blu-ray be open sourced?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Sherill (DEM) wins NJ gubernatorial election on Nov 4, 2025?",
+    "price": 0.6621621621621622,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Lil Nas X (Montero Lamar Hill) be convicted on any of his August 2025 charges?",
+    "price": 0.599142485882973,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Netflix's upcoming FTX show \"The Altruists\" make any reference to Worth The Candle?",
+    "price": 0.323625552702431,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Bundesliga — 2025-26 Matchday 2 Fixtures",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will there be karmic justice for everyone who treats (or mistreats) Jose Luis Ricon?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Winning margin >8 points in Texas @ Ohio State or LSU @ Clemson Week 1?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Is Jose Luis Ricon basically YOUR peak experience?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Claude 5 released before March 31?",
+    "price": 0.3708928973169137,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Grok 5 released in 2025?",
+    "price": 0.43374821920085116,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Total subscriber size of non‑porn AI romance/companionship subreddits on Reddit on Aug 17, 2026",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Daily Coinflip",
+    "price": 0.5050166693147403,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Bitcoin below $100,000 by 2025-08-26?",
+    "price": 0.4400000000000001,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will I win a bet with my friend?",
+    "price": 0.7616407532009943,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Percentage of 2025-born people dying with Alzheimer's?",
+    "price": 0.1542124744107962,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Who will win melee singles at Riptide 2025?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Liverpool tops Premier League in 2026?",
+    "price": 0.3674999674054848,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Lisa Cook be on the Board of Governors of the Federal Reserve for the October meeting?",
+    "price": 0.6643252588963662,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "XRP price exceeds $3 on September 1, 2025?",
+    "price": 0.41561856774604095,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "One Piece ends before GTA 6 releases?",
+    "price": 0.3542958370239149,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will \"Training a Reward Hacker Despite Perfect Labels\" make the top fifty posts in LessWrong's 2025 Annual Review?",
+    "price": 0.14,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Impala Canada to accelerate shutdown in 2026",
+    "price": 0.5,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Daily Coinflip 13",
+    "price": 0.5,
+    "site": "Manifold",
+    "is_duplicate": true
+  },
+  {
+    "product": "Daily Coinflip 13",
+    "price": 0.5,
+    "site": "Manifold",
+    "is_duplicate": true
+  },
+  {
+    "product": "Is Laurence Ion funny?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "IFT-10 Scrub today (Aug 25)?",
+    "price": 0.944991119553194,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Trump issue a pardon / commutation for a group of people (not by name) during his term?",
+    "price": 0.3802171143751853,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Emil O. W. Kierkegaard be allowed back into the US by EOY2028?",
+    "price": 0.7473510979197711,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "US govt owns >=5% equity in OpenAI, Anthropic, Alphabet or Meta or xAI by 2026?",
+    "price": 0.09706381946129579,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Matt go to the gym before 16:00 on Wednesday",
+    "price": 0.5045247942344705,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Ramp or Brex IPO first? [Kalshi]",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "What score will my girlfriend get on her LSAT?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "US Department of Defense renamed to Department of War before 2026?",
+    "price": 0.13115391050445,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "x",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Next San Francisco Police Chief",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "On 2025-09-05 00:00 GMT I replied to my 2025-08-31 00:00 GMT tweet.",
+    "price": 0.0283709801579483,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Jose Luis Ricon take his GF to Spain sometime by EOY2028?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Is it true that every time someone namedrops Lada Nuzhna, someone in the distance can't resist giggling/smiling?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Is it true that every time someone namedrops Jose Luis Ricon, someone in the distance CAN'T RESIST GIGGLING/SMILING?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will China ease or dismantle major aspects of the Great Firewall’s censorship by the end of 2025?",
+    "price": 0.10306622004637983,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will the US Government - Intel deal happen?",
+    "price": 0.7664751316280234,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Jayson Tatum leaves Celtics before 2026?",
+    "price": 0.09999999999999995,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "When will Kalshi launch a crypto platform?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Who will win the boxing bout Canelo Álvarez vs. Terence Crawford?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Modi dies this year?",
+    "price": 0.05566583314585284,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Derek Gee ride another UCI cycling race for Israel - Premier Tech before leaving the team?",
+    "price": 0.1619306172591266,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Matthew McAteer have girlfriend by EOY2028?",
+    "price": 0.47562425683709864,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "An asylum seeker residing at the Britannia Hotel is arrested in connection with the Canary Wharf rape by October 1, 2025",
+    "price": 0.5664956506563251,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Flag Burning Prosecution During Trump's Second Term",
+    "price": 0.3307041091318137,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will there be a Kirby Air Ride 3 before 2035?",
+    "price": 0.4524886877828055,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will I do [thing] today?",
+    "price": 0.5582450510553125,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Who will win the 2026 election for California's 51st State Assembly district",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "How many real historical figures who lived entirely in the first half of history (i.e. before ~550 BC) can you name?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Which Microsoft software products will xAI compete with by the end of 2026?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Jose Luis Ricon get a chance to meet James D. Watson?",
+    "price": 0.3902439024390245,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Jose Luis Ricon come to Nucleate Summit 2026?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will I still be using openSUSE Tumbleweed six months from now?",
+    "price": 0.5243757431629014,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will Jose Luis Ricon twitch or YouTube a let's play video by EPY2027",
+    "price": 0.47562425683709864,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Bitcoin price below 100,000 by August 25, 2025 (Beijing time)?",
+    "price": 0.4524886877828055,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "When you rate attractiveness on a 0-10 scale, which specific meaning do you use by default?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "Will jose luis ricon teach lada nuzhna to jhana?",
+    "price": 0,
+    "site": "Manifold",
+    "is_duplicate": false
+  },
+  {
+    "product": "As a school teacher, will Tumbles get in trouble for his online activities? (by 2029)",
+    "price": 0.3348123275906665,
+    "site": "Manifold",
+    "is_duplicate": false
+  }
+]
