@@ -128,7 +128,6 @@ Instead of one monolithic agent, I built a team of specialist agents. Each agent
 
 **Data flow**:
 
-```
 (Internet APIs)
   |
   v
@@ -142,7 +141,6 @@ Instead of one monolithic agent, I built a team of specialist agents. Each agent
   v
 3_final_output.csv            # created by CSV Converter Agent
 ![RAG Output](Screenshot 2025-08-28 205809.png)
-```
 ### Interactive Chat with RAG (Retrieval-Augmented Generation)
 
 After the CrewAI pipeline has successfully scraped and processed the market data, this project provides a standalone chat application to interact with the results. This allows users to "talk to their data" in natural language.
