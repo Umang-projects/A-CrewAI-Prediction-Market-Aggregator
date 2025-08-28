@@ -250,41 +250,6 @@ If you want to test the dedupe tool locally (no agents), load a JSON and call th
 
 ---
 
-## File structure
-
-```
-CrewAI_project_structured/
-├── docs/
-│   ├── README.md
-│   └── Development_Philosophy.md
-├── src/
-│   ├── agents/
-│   │   ├── ALL_AGENTS.py
-│   │   └── Testing_scraping.py
-│   └── tools/
-│       ├── Task_duplicate_finder_tool.py
-│       └── Task_Convert_To_CSV.py
-├── data/
-│   ├── raw/
-│   │   └── 1_combined_raw_data.json
-│   └── processed/
-│       └── 2_data_with_duplicates.json
-├── outputs/
-│   └── 3_final_output.csv
-├── .env
-├── requirements.txt
-```
-
----
-
-## Notes
-
-* Prefer passing file paths to agents (small, serializable inputs) and use in‑memory `data` only for local debugging.
-* Keep tools deterministic and small — easier to test and reason about agent failures.
-* Rename any modules with capitalized filenames (e.g., `Task.py`) to lowercase to avoid import collisions.
-
----
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Please:
