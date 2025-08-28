@@ -133,12 +133,15 @@ Instead of one monolithic agent, I built a team of specialist agents. Each agent
   |
   v
 1_combined_raw_data.json      # created by Aggregator Agent
+![RAG Output](Screenshot 2025-08-28 204115.png)
   |
   v
 2_data_with_duplicates.json   # created by Duplicate Analyzer Agent
+![RAG Output](Screenshot 2025-08-28 204253.png)
   |
   v
 3_final_output.csv            # created by CSV Converter Agent
+![RAG Output](Screenshot 2025-08-28 205809.png)
 ```
 ### Interactive Chat with RAG (Retrieval-Augmented Generation)
 
@@ -213,8 +216,16 @@ GOOGLE_API_KEY="<YOUR_GOOGLE_API_KEY>"
 
 ```bash
 python ALL_AGENTS.py
+```
+![Agent Output](Screenshot 2025-08-28 205141.png)
+![Agent Output](Screenshot 2025-08-28 205200.png)
+![Agent Output](Screenshot 2025-08-28 205229.png)
+```bash
 python RAG_Handle.py
 ```
+![RAG Output](Screenshot 2025-08-28 204115.png)
+![RAG Output](Screenshot 2025-08-28 204131.png)
+
 
 **Notes:**
 
