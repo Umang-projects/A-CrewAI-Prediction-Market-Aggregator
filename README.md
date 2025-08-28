@@ -17,8 +17,7 @@ Quantitative testing reveals the following metrics:
   - **Generation Latency:** Average **~3.3 seconds** for answer synthesis.
   - **Success Rate:** ~25% of complex queries yielded relevant answers in initial tests.
   - **Error Handling:** 100% of queries with no relevant data returned a graceful error message.
-![RAG_Performance](Latency.png)
-![Pipeline_Performance](Latency_2.png)
+![RAG_Performance](Latency.png) ![Pipeline_Performance](Latency_2.png)
 
 ---
 
