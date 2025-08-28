@@ -4,6 +4,22 @@ An Autonomous CrewAI Pipeline and RAG Chatbot for Prediction Market Analysis.
 
 This project implements an AI-powered data platform that uses a crew of autonomous agents (CrewAI) to scrape, process, and unify data from multiple prediction markets like Polymarket, Manifold, and PredictIt. The system culminates in an interactive RAG-powered chat interface, allowing users to ask complex, natural language questions and receive factual, data-driven answers grounded in the scraped data.
 
+## 📈 Performance Insights
+Quantitative testing reveals the following metrics:
+
+- **Data Pipeline Efficiency:**
+  - Processed **101 records** from multiple sources.
+  - Execution time: **~120 seconds** for full ETL pipeline.
+  - Data quality: **6 duplicates flagged** (∼6% of dataset).
+
+- **RAG System Performance:**
+  - **Retrieval Latency:** Consistently under **800ms** per query.
+  - **Generation Latency:** Average **~3.3 seconds** for answer synthesis.
+  - **Success Rate:** ~25% of complex queries yielded relevant answers in initial tests.
+  - **Error Handling:** 100% of queries with no relevant data returned a graceful error message.
+![RAG_Performance](Latency.png)
+![Pipeline_Performance](Latency_2.png)
+
 ---
 
 ## Table of contents
