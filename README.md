@@ -1,6 +1,6 @@
-# A-CrewAI-Prediction-Market-Aggregator
+# Veritas-AI-Tracking-Misinformation-with-Autonomous-Agents
 
-An Autonomous CrewAI Pipeline and RAG Chatbot for Prediction Market Analysis.
+Veritas AI: An autonomous agent crew that scrapes prediction markets to create a RAG-powered chatbot for tracking misinformation and public belief in real-time.
 
 This project implements an AI-powered data platform that uses a crew of autonomous agents (CrewAI) to scrape, process, and unify data from multiple prediction markets like Polymarket, Manifold, and PredictIt. The system culminates in an interactive RAG-powered chat interface, allowing users to ask complex, natural language questions and receive factual, data-driven answers grounded in the scraped data.
 
