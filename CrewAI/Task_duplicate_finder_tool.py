@@ -1,4 +1,3 @@
-# task.py
 import json
 from collections import Counter
 from typing import Any
